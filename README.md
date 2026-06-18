@@ -173,13 +173,29 @@ document as a build artifact.
 > Generate fresh captures by running `streamlit run app.py` and saving images into
 > `docs/screenshots/`. Each page is wide-layout and looks best at ≥ 1440px.
 
-| Executive Summary | Control Health |
-| --- | --- |
-| ![Executive Summary](docs/screenshots/executive_summary.png) | ![Control Health](docs/screenshots/Control_health.png) |
+### Executive Summary
 
-| Vulnerability Trends | POA&M Tracker |
-| --- | --- |
-| ![Vulnerability Trends](docs/screenshots/Vulnerability_trends.png) | ![POA&M Tracker](docs/screenshots/Poa&m_tracker.png) |
+![Executive Summary](docs/screenshots/executive_summary.png)
+
+*Overall compliance score, 26-week trend line, critical findings, and POA&M aging at a glance.*
+
+### Control Health
+
+![Control Health](docs/screenshots/Control_health.png)
+
+*NIST SP 800-53 Rev 5 control-family heatmap with Pass / Partial / Fail breakdown.*
+
+### Vulnerability Trends
+
+![Vulnerability Trends](docs/screenshots/Vulnerability_trends.png)
+
+*Severity history (Critical / High / Medium / Low) with mean-time-to-remediate against FedRAMP SLAs.*
+
+### POA&M Tracker
+
+![POA&M Tracker](docs/screenshots/Poa&m_tracker.png)
+
+*Filterable register of open items with days open, risk score, owner, and OSCAL export.*
 
 ## Disclaimer
 
