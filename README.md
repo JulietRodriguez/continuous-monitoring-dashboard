@@ -4,7 +4,7 @@
 
 **A FedRAMP-style ConMon dashboard that tracks control health, POA&M aging, vulnerability trends, and compliance drift over time.**
 
-[![CI](https://github.com/your-org/continuous-monitoring-dashboard/actions/workflows/ci.yml/badge.svg)](https://github.com/your-org/continuous-monitoring-dashboard/actions/workflows/ci.yml)
+[![CI](https://github.com/JulietRodriguez/continuous-monitoring-dashboard/actions/workflows/ci.yml/badge.svg)](https://github.com/JulietRodriguez/continuous-monitoring-dashboard/actions/workflows/ci.yml)
 [![Python](https://img.shields.io/badge/python-3.10%20%7C%203.11%20%7C%203.12-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.32%2B-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![OSCAL](https://img.shields.io/badge/OSCAL-1.1.2-0b5394)](https://pages.nist.gov/OSCAL/)
