@@ -175,11 +175,11 @@ document as a build artifact.
 
 | Executive Summary | Control Health |
 | --- | --- |
-| ![Executive Summary](docs/screenshots/executive-summary.png) | ![Control Health](docs/screenshots/control-health.png) |
+| ![Executive Summary](docs/screenshots/executive_summary.png) | ![Control Health](docs/screenshots/Control_health.png) |
 
 | Vulnerability Trends | POA&M Tracker |
 | --- | --- |
-| ![Vulnerability Trends](docs/screenshots/vulnerability-trends.png) | ![POA&M Tracker](docs/screenshots/poam-tracker.png) |
+| ![Vulnerability Trends](docs/screenshots/Vulnerability_trends.png) | ![POA&M Tracker](docs/screenshots/Poa&m_tracker.png) |
 
 ## Disclaimer
 
