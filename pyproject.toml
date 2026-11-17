@@ -9,7 +9,7 @@ description = "A FedRAMP Continuous Monitoring (ConMon) dashboard simulating con
 readme = "README.md"
 requires-python = ">=3.10"
 license = { text = "MIT" }
-authors = [{ name = "Continuous Monitoring Dashboard Contributors" }]
+authors = [{ name = "Juliet Rodriguez" }]
 keywords = ["fedramp", "conmon", "oscal", "nist-800-53", "grc", "compliance", "poam", "streamlit"]
 dependencies = [
     "streamlit>=1.32",

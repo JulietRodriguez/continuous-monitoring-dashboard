@@ -33,8 +33,8 @@ export suitable for ConMon submission tooling.
 | Area | What it does |
 | --- | --- |
 | 📊 **Executive Summary** | Overall compliance score, 26-week trend line, critical/high findings, POA&M aging, and control-status mix. |
-| 🧩 **Control Health** | Heatmap of all NIST SP 800-53 Rev 5 control families with Pass / Partial / Fail breakdown and per-family scores. |
-| 🐞 **Vulnerability Trends** | Stacked severity history (Critical / High / Medium / Low), mean-time-to-remediate, and SLA-compliance against FedRAMP timeframes. |
+| 🧩 **Control Health** | Heatmap of 18 NIST SP 800-53 Rev 5 control families (all 20 except PM and PT) with Pass / Partial / Fail breakdown and per-family scores. |
+| 🐞 **Vulnerability Trends** | Stacked severity history (Critical / High / Medium / Low), mean-time-to-remediate, and SLA compliance (High 30, Medium 90, Low 180 days, matching FedRAMP ConMon timeframes; Critical uses a stricter 15-day target set in `models.py`). |
 | 📋 **POA&M Tracker** | Filterable register of open items with days open, risk score, owner, and past-due flags; CSV + OSCAL export. |
 | 🗂️ **OSCAL 1.1.2 Export** | Generates a valid OSCAL Assessment Results document (observations, risks, findings) with deterministic UUIDs. |
 | 🎛️ **Deterministic data** | Seeded generator → identical visuals and reproducible exports for stable demos and tests. |
